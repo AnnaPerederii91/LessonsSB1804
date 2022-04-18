@@ -1,0 +1,15 @@
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\bin\Debug\net6.0\AgeS2.exe
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\bin\Debug\net6.0\AgeS2.deps.json
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\bin\Debug\net6.0\AgeS2.runtimeconfig.json
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\bin\Debug\net6.0\AgeS2.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\bin\Debug\net6.0\AgeS2.pdb
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\AgeS2.csproj.AssemblyReference.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\AgeS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\AgeS2.AssemblyInfoInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\AgeS2.AssemblyInfo.cs
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\AgeS2.csproj.CoreCompileInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\AgeS2.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\refint\AgeS2.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\AgeS2.pdb
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\AgeS2.genruntimeconfig.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\AgeS2\obj\Debug\net6.0\ref\AgeS2.dll

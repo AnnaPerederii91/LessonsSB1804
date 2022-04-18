@@ -1,0 +1,5 @@
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson9_Encapsulation\obj\Debug\net6.0\Lesson9_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson9_Encapsulation\obj\Debug\net6.0\Lesson9_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson9_Encapsulation\obj\Debug\net6.0\Lesson9_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson9_Encapsulation\obj\Debug\net6.0\Lesson9_Encapsulation.AssemblyInfo.cs
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson9_Encapsulation\obj\Debug\net6.0\Lesson9_Encapsulation.csproj.CoreCompileInputs.cache

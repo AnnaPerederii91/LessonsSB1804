@@ -1,0 +1,15 @@
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\bin\Debug\net6.0\Lesson8_Shapes_Homework.exe
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\bin\Debug\net6.0\Lesson8_Shapes_Homework.deps.json
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\bin\Debug\net6.0\Lesson8_Shapes_Homework.runtimeconfig.json
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\bin\Debug\net6.0\Lesson8_Shapes_Homework.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\bin\Debug\net6.0\Lesson8_Shapes_Homework.pdb
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\Lesson8_Shapes_Homework.csproj.AssemblyReference.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\Lesson8_Shapes_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\Lesson8_Shapes_Homework.AssemblyInfoInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\Lesson8_Shapes_Homework.AssemblyInfo.cs
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\Lesson8_Shapes_Homework.csproj.CoreCompileInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\Lesson8_Shapes_Homework.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\refint\Lesson8_Shapes_Homework.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\Lesson8_Shapes_Homework.pdb
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\Lesson8_Shapes_Homework.genruntimeconfig.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson8_Shapes_Homework\obj\Debug\net6.0\ref\Lesson8_Shapes_Homework.dll

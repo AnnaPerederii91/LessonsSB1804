@@ -1,0 +1,5 @@
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_HW_Shapes\obj\Debug\net6.0\Lesson11_HW_Shapes.csproj.AssemblyReference.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_HW_Shapes\obj\Debug\net6.0\Lesson11_HW_Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_HW_Shapes\obj\Debug\net6.0\Lesson11_HW_Shapes.AssemblyInfoInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_HW_Shapes\obj\Debug\net6.0\Lesson11_HW_Shapes.AssemblyInfo.cs
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_HW_Shapes\obj\Debug\net6.0\Lesson11_HW_Shapes.csproj.CoreCompileInputs.cache

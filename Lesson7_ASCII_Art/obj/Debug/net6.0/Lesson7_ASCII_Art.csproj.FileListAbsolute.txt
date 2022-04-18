@@ -1,0 +1,15 @@
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\bin\Debug\net6.0\Lesson7_ASCII_Art.exe
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\bin\Debug\net6.0\Lesson7_ASCII_Art.deps.json
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\bin\Debug\net6.0\Lesson7_ASCII_Art.runtimeconfig.json
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\bin\Debug\net6.0\Lesson7_ASCII_Art.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\bin\Debug\net6.0\Lesson7_ASCII_Art.pdb
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\Lesson7_ASCII_Art.csproj.AssemblyReference.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\Lesson7_ASCII_Art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\Lesson7_ASCII_Art.AssemblyInfoInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\Lesson7_ASCII_Art.AssemblyInfo.cs
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\Lesson7_ASCII_Art.csproj.CoreCompileInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\Lesson7_ASCII_Art.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\refint\Lesson7_ASCII_Art.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\Lesson7_ASCII_Art.pdb
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\Lesson7_ASCII_Art.genruntimeconfig.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson7_ASCII_Art\obj\Debug\net6.0\ref\Lesson7_ASCII_Art.dll

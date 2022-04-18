@@ -1,0 +1,5 @@
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_OOP_Polymorphysm\obj\Debug\net6.0\Lesson11_OOP_Polymorphysm.csproj.AssemblyReference.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_OOP_Polymorphysm\obj\Debug\net6.0\Lesson11_OOP_Polymorphysm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_OOP_Polymorphysm\obj\Debug\net6.0\Lesson11_OOP_Polymorphysm.AssemblyInfoInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_OOP_Polymorphysm\obj\Debug\net6.0\Lesson11_OOP_Polymorphysm.AssemblyInfo.cs
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson11_OOP_Polymorphysm\obj\Debug\net6.0\Lesson11_OOP_Polymorphysm.csproj.CoreCompileInputs.cache

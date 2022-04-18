@@ -1,0 +1,15 @@
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\bin\Debug\net6.0\Lesson5_Basics.exe
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\bin\Debug\net6.0\Lesson5_Basics.deps.json
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\bin\Debug\net6.0\Lesson5_Basics.runtimeconfig.json
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\bin\Debug\net6.0\Lesson5_Basics.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\bin\Debug\net6.0\Lesson5_Basics.pdb
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\Lesson5_Basics.csproj.AssemblyReference.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\Lesson5_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\Lesson5_Basics.AssemblyInfoInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\Lesson5_Basics.AssemblyInfo.cs
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\Lesson5_Basics.csproj.CoreCompileInputs.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\Lesson5_Basics.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\refint\Lesson5_Basics.dll
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\Lesson5_Basics.pdb
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\Lesson5_Basics.genruntimeconfig.cache
+C:\Users\a.perederii\Desktop\LessonsSB_18042022\LessonsSB1804\Lesson5_Basics\obj\Debug\net6.0\ref\Lesson5_Basics.dll
